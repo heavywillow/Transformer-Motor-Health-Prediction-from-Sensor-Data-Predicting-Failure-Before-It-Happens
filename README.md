@@ -46,17 +46,4 @@ That's it. One sentence, anyone (technical or HR) understands it.
 - Optional polish: SHAP library for feature importance (1 extra line of code, looks very advanced in interviews)
 - GitHub repo with a clean README
 
-## The 3 core-EE talking points you need (that's all)
-1. **Torque & rotational speed** — mechanical load on motor; higher torque + low speed often precedes failure.
-2. **Tool wear** — degrades over time, directly increases failure probability (basic wear-and-tear concept).
-3. **Temperature** — overheating is a classic failure precursor in any electrical machine due to insulation breakdown.
 
-You don't need more than this. If asked something deeper, say "I focused on the data analytics pipeline; for deeper root-cause electromechanical analysis I'd want to pair this with vibration spectral analysis," — sounds mature, not evasive.
-
-## Resume bullet
-"Built a predictive maintenance classifier on industrial motor sensor data (10,000 records); trained Random Forest model on 80% split, achieved X% accuracy predicting failure on the remaining 20%, and identified top failure-driving features using SHAP analysis."
-
-## Output you'll show interviewer
-One confusion matrix, one accuracy score, one feature-importance bar chart. Three visuals, fully explainable, done in under a week.
-
-Want the starter Colab notebook code for this (Option B dataset)?
